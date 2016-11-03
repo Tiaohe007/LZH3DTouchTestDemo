@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>百度新闻</string>
+		<key>url</key>
+		<string>http://news.baidu.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>新浪新闻</string>
+		<key>url</key>
+		<string>http://news.sina.com.cn/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>搜狐新闻</string>
+		<key>url</key>
+		<string>http://news.sohu.com.cn/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>腾讯新闻</string>
+		<key>url</key>
+		<string>http://news.qq.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>凤凰新闻</string>
+		<key>url</key>
+		<string>http://news.ifeng.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>百度视频</string>
+		<key>url</key>
+		<string>http://v.baidu.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>新浪视频</string>
+		<key>url</key>
+		<string>http://video.sina.com.cn</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>搜狐视频</string>
+		<key>url</key>
+		<string>http://tv.sohu.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>腾讯视频</string>
+		<key>url</key>
+		<string>http://v.qq.com/index.html</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>凤凰视频</string>
+		<key>url</key>
+		<string>http://v.ifeng.com/</string>
+	</dict>
+</array>
+</plist>
